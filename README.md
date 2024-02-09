@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iaotecnologia
+- 👋 Hi, I’m iaotecnologia
 - 👀 I’m interested in tecnology
 - 🌱 I’m currently learning IoT
 - 💞️ I’m looking to collaborate on management projects
